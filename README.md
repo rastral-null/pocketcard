@@ -1,2 +1,5 @@
-# pocketcard
-A lightweight Telegram client built with GTK4 and Libadwaita for mobile Linux.
+# Pocketcard
+
+A lightweight Telegram client for mobile Linux.
+
+wip description xd
